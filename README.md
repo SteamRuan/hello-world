@@ -1,2 +1,2 @@
 # hello-world
-first repository for traning
+first repository for tranning
